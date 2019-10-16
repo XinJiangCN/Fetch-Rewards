@@ -30,7 +30,7 @@ So the overall time complexity is `O(N)`.
 
 Clone the repository:
 
-`git clone https://github.com/XinJiangCN/Fetch-Rewards-Challange`
+`git clone https://github.com/XinJiangCN/Fetch-Rewards`
 
 Install the dependencies:
 
