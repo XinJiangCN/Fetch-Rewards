@@ -29,18 +29,24 @@ So the overall time complexity is `O(N)`.
 ## Usage and Testing
 
 Clone the repository:
+
 `git clone https://github.com/XinJiangCN/Fetch-Rewards-Challange`
 
 Install the dependencies:
+
 `mvn clean install`
+
 **Maven should be installed**
 
 
 Start the App:
+
 `mvn spring-boot:run`
+
 **Note: port 10010 must be available**
 
 Open a web browser and test:
+
 `http://localhost:10010/isPyramid?str=TARGET`,
 
 where TARGET is the string you may want to test.
