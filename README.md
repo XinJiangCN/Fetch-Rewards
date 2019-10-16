@@ -52,8 +52,4 @@ Open a web browser and test:
 where TARGET is the string you may want to test.
 
 
-
 The web page will simply display whether the given string is a pyramid word.
-
-`mvn spring-boot:run`
-
